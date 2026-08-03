@@ -7,7 +7,7 @@
 
 ## 步骤
 
-1. 注册 [https://aklam.io/htUFSCZ6](https://aklam.io/htUFSCZ6)
+1. 注册 [https://aklam.io/htUFSCZ6](https://aklam.io/htUFSCZ6) Lebara 官方的邀请地址，放心注册。
 2. 选择2.5磅套餐，不要选择自动续费。选错也没事，后面可以取消。
 3. 询问你是否是给iphone air使用，一定要选择 **是**，不然没有esim。
 4. 英国地址请使用ai随机生成真是的邮编，填入邮编，会自动搜索出地址，直接选给出的地址。
