@@ -16,7 +16,7 @@
 7. 扫码添加，如果一直没信号，或者信号出现又消失。有些手机可能需要手动去选择“4G”网络。
 8. 成功后会收到一条短信，告诉你你的号码是多少。
 9. 登陆官网，绑定手机号。 0开头，不要写国家码。
-10. 右上角 account - dashbord ，你的plan 后面选择 manage ， 选择cancel plan取消自己续费
+10. 右上角 account - dashbord ，你的plan 后面选择 manage ， 选择cancel plan取消自己续费，或者关闭 auto-renew 
 11. 如果需要携号转网，先不要取消卡，找到 Pay As You Go Credit ，先充值，不然无法携号转网。这个意思就是按量付费的余额。
 12.  右上角 account - pament method 找到你的信用卡， 右上角三个点， remove as default ， 再次，三个点，remove
 
