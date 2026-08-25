@@ -13,12 +13,12 @@
 3. 询问你是否是给iphone air使用，一定要选择 **是**，不然没有esim。
 4. 英国地址请使用ai随机生成真实的邮编，填入邮编，会自动搜索出地址，直接选给出的地址。
 5. 付款注册成功会给邮箱发送esim的二维码
-7. 扫码添加，如果一直没信号，或者信号出现又消失。有些手机可能需要手动去选择“4G”网络。
-8. 成功后会收到一条短信，告诉你你的号码是多少。
-9. 登陆官网，绑定手机号。 0开头，不要写国家码。
-10. 右上角 account - dashbord ，你的plan 后面选择 manage ， 选择cancel plan取消自己续费，或者关闭 auto-renew 
-11. 如果需要携号转网，先不要取消卡，找到 Pay As You Go Credit ，先充值，不然无法携号转网。这个意思就是按量付费的余额。  
-12.（如果想使用自动续费，此步骤无需操作）右上角 account - pament method 找到你的信用卡， 右上角三个点， remove as default ， 再次，三个点，remove 
+6. 扫码添加，如果一直没信号，或者信号出现又消失。有些手机可能需要手动去选择“4G”网络。
+7. 成功后会收到一条短信，告诉你你的号码是多少。
+8. 登陆官网，绑定手机号。 0开头，不要写国家码。
+9. 右上角 account - dashbord ，你的plan 后面选择 manage ， 选择cancel plan取消自己续费，或者关闭 auto-renew 
+10. 如果需要携号转网，先不要取消卡，找到 Pay As You Go Credit ，先充值，不然无法携号转网。这个意思就是按量付费的余额。
+11.（如果想使用自动续费，此步骤无需操作）右上角 account - pament method 找到你的信用卡， 右上角三个点， remove as default ， 再次，三个点，remove 
 
 ## 携号转网地址 
 [https://www.lebara.co.uk/en/portin.html](https://www.lebara.co.uk/en/portin.html)
