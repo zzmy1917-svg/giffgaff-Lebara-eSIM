@@ -18,7 +18,7 @@
 8. 登陆官网，绑定手机号。 0开头，不要写国家码。
 9. 右上角 account - dashbord ，你的plan 后面选择 manage ， 选择cancel plan取消自己续费，或者关闭 auto-renew 
 10. 如果需要携号转网，先不要取消卡，找到 Pay As You Go Credit ，先充值，不然无法携号转网。这个意思就是按量付费的余额。
-11.（如果想使用自动续费，此步骤无需操作）右上角 account - pament method 找到你的信用卡， 右上角三个点， remove as default ， 再次，三个点，remove 
+11. （如果想使用自动续费，此步骤无需操作）右上角 account - pament method 找到你的信用卡， 右上角三个点， remove as default ， 再次，三个点，remove 
 
 ## 携号转网地址 
 [https://www.lebara.co.uk/en/portin.html](https://www.lebara.co.uk/en/portin.html)
