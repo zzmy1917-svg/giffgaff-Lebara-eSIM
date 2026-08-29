@@ -6,6 +6,9 @@
 * giffgaff ctexcel cmlink voxi 等明确不允许长期漫游， Lebara 没有明确说明。（**当然谁也不敢绝对保证**）。
 * 直接购买一个月套餐即可激活，最低5磅一个月（**使用下面邀请地址注册打5折只需2.5磅**）。
 
+## 注册app
+ 注册部分国外app 不仅需要国外好吗，还需要干净的ip
+
 ## 步骤
 
 1. 注册 [https://aklam.io/htUFSCZ6](https://aklam.io/htUFSCZ6) **Lebara 官方的邀请地址，放心注册**。
