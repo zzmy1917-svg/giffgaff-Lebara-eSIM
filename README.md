@@ -20,7 +20,7 @@
 7. 成功后会收到一条短信，告诉你你的号码是多少。
 8. 登陆官网，绑定手机号。 0开头，不要写国家码。
 9. 右上角 account - dashbord ，你的plan 后面选择 manage ， 选择cancel plan取消自己续费，或者关闭 auto-renew 
-10. 找到 Pay As You Go Credit ，先充值，这个意思就是按量付费的余额。如果需要携号转网，先不要注销卡，先转网成功再注销。
+10. 找到 Pay As You Go Credit ，先充值，这个意思就是按量付费的余额，记得充值保号。如果需要携号转网，先不要注销卡，先转网成功再注销。
 11. 右上角 account - pament method 找到你的信用卡， 右上角三个点， remove as default ， 再次，三个点，remove 。（如果以后续费还是用这个卡，可以不解绑，就是不用第二次的remove）
 
 ## 携号转网地址 
